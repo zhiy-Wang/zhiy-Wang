@@ -5,8 +5,10 @@
   <a href="https://github.com/Wangzy"><img src="https://img.shields.io/github/followers/Wangzy?style=social" alt="Followers"></a>
 </p>
 
-I am an undergraduate student majoring in **Artificial Intelligence** at **Jilin University (JLU)**.      - 🔭 **Current Position**: AI Research Intern at **Junshen Technology (Shanghai)**.
-- 🏫 **Lab Affiliation**: Undergraduate Researcher at **JLU AVCLab** (Autonomous Vehicle & Complex Systems Lab).
+I am an undergraduate student majoring in **Artificial Intelligence** at **Jilin University (JLU)**.  
+
+- 🔭 **Current Position**: AI Research Intern at **Junshen Technology (Shanghai)**.
+- 🏫 **Lab Affiliation**: Undergraduate Researcher at **JLU AVCLab** .
 - 🎯 **Core Research**: Humanoid Robot Locomotion & Manipulation, Sim-to-Real Transfer, and Deep Reinforcement Learning.
 - 🛠️ **Tech Stack**: NVIDIA Isaac Sim/Lab, PyTorch, ROS, Linux (Ubuntu/SSH/Tmux), C++, Python.
 
