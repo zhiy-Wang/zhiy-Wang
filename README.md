@@ -5,7 +5,10 @@
   <a href="https://github.com/Wangzy"><img src="https://img.shields.io/github/followers/Wangzy?style=social" alt="Followers"></a>
 </p>
 
-I am an undergraduate student majoring in **Artificial Intelligence** at **Jilin University (JLU)**. Driven by a deep interest in intelligence and its physical manifestation, I built a solid foundation in Deep Learning, Computer Vision, and Large Language Models before transitioning my primary focus to **Embodied AI & Humanoid Robotics**.
+I am an undergraduate student majoring in **Artificial Intelligence** at **Jilin University (JLU)**. - 🔭 **Current Position**: AI Research Intern at **Junshen Technology (Shanghai)**.
+- 🏫 **Lab Affiliation**: Undergraduate Researcher at **JLU AVCLab** (Autonomous Vehicle & Complex Systems Lab).
+- 🎯 **Core Research**: Humanoid Robot Locomotion & Manipulation, Sim-to-Real Transfer, and Deep Reinforcement Learning.
+- 🛠️ **Tech Stack**: NVIDIA Isaac Sim/Lab, PyTorch, ROS, Linux (Ubuntu/SSH/Tmux), C++, Python.
 
 ---
 
