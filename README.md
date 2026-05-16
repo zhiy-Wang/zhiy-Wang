@@ -1,16 +1,31 @@
-# Hi there, I'm Wangzy👋
+# Hi there, I'm Wangzy (小猪) 👋
 
 <p align="left">
   <a href="https://github.com/Wangzy"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained"></a>
   <a href="https://github.com/Wangzy"><img src="https://img.shields.io/github/followers/Wangzy?style=social" alt="Followers"></a>
 </p>
 
-I am an undergraduate student (Sophomore) majoring in **Artificial Intelligence** at **Jilin University (JLU)**. Currently, my research and engineering focus is heavily dedicated to **Embodied AI and Humanoid Robotics**, bridging the gap between advanced algorithms and physical hardware.
+I am an undergraduate student majoring in **Artificial Intelligence** at **Jilin University (JLU)**. Driven by a deep interest in intelligence and its physical manifestation, I built a solid foundation in Deep Learning, Computer Vision, and Large Language Models before transitioning my primary focus to **Embodied AI & Humanoid Robotics**.
 
-- 🔭 **Current Position**: AI Research Intern at **Junshen Technology (Shanghai)**.
-- 🏫 **Lab Affiliation**: Undergraduate Researcher at **JLU AVCLab** .
-- 🎯 **Core Research**: Humanoid Robot Locomotion & Manipulation, Reinforcement Learning (PPO/SAC), and Sim-to-Real Transfer.
-- 🛠️ **Tech Stack**: NVIDIA Isaac Sim/Lab, PyTorch, ROS, Linux (Ubuntu/SSH/Tmux), C++, Python, and LaTeX.
+---
+
+## 🎯 Current Focus & Goals
+* **Research & Development**: Dedicated to building **real-world deployed robotic products** and publishing **high-impact research papers** in the field of Embodied AI.
+* **Long-term Academic Track**: Actively seeking and preparing for **Robotics PhD positions** globally to push the boundaries of humanoid locomotion and intelligence.
+
+---
+
+## 🔬 Research & Internship Experience
+
+### 🤖 Jushen Technology (Shanghai)
+**AI Research Intern** | *Present*
+* Focusing on **Sim-to-Real transfer** algorithms for humanoid robots.
+* Utilizing high-fidelity simulation environments (**NVIDIA Isaac Sim/Lab**) to train robust reinforcement learning policies for complex humanoid locomotion.
+
+### 🛸 JLU AVCLab
+**Undergraduate Researcher** | *Present*
+* **Embodied AI & Robotics (Current)**: Researching Sim2Real deployment, humanoid locomotion, and deep reinforcement learning (DRL) policies.
+* **Rigorous Foundation (Past)**: Developed a strong theoretical and practical background in CV and LLMs. Successfully completed comprehensive coursework and self-study, including **Stanford CS231n** and **Stanford CS336** .
 
 ---
 
@@ -23,23 +38,10 @@ I am an undergraduate student (Sophomore) majoring in **Artificial Intelligence*
 
 ---
 
-## 🔬 Research & Internship Experience
-
-### 🤖 Junshen Technology (Shanghai)
-**AI Research Intern** | *Present*
-* Focusing on **Sim-to-Real transfer** algorithms for humanoid robots.
-* Utilizing high-fidelity simulation environments (**NVIDIA Isaac Sim/Lab**) to train robust reinforcement learning policies for complex humanoid locomotion.
-
-### 🛸 JLU AVCLab
-**Undergraduate Researcher** | *Present*
-* **Embodied AI & Robotics (Current)**: Transitioned into humanoid and mobile robotics, researching Sim2Real deployment and deep reinforcement learning (DRL) policies.
-**Rigorous Foundation (Past)**: Developed a strong theoretical and practical background in CV and LLMs. Successfully completed a part of comprehensive coursework and self-study, including **Stanford CS231n** (Deep Learning for Computer Vision) and **Stanford CS336** (Language Modeling from Scratch, specializing in Transformer architectures and pre-training/inference mechanics).
-
----
-
 
 ## 📫 How to reach me
 * **Email**: adoreking06@gmail.com
+* **Wechat**: adore-king
 * **Location**: Changchun / Shanghai, China
 
 "Anticipating the future by building it—one policy deployment at a time." 🚀
