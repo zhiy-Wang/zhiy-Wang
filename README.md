@@ -1,4 +1,4 @@
-# Hi there, I'm Wangzy (小猪) 👋
+# Hi there, I'm Wangzy 👋
 
 <p align="left">
   <a href="https://github.com/Wangzy"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained"></a>
@@ -7,7 +7,7 @@
 
 I am an undergraduate student majoring in **Artificial Intelligence** at **Jilin University (JLU)**.  
 
-- 🔭 **Current Position**: AI Research Intern at **Junshen Technology (Shanghai)**.
+- 🔭 **Current Position**: AI Research Intern at **Jushen Technology (Shanghai)**.
 - 🏫 **Lab Affiliation**: Undergraduate Researcher at **JLU AVCLab** .
 - 🎯 **Core Research**: Humanoid Robot Locomotion & Manipulation, Sim-to-Real Transfer, and Deep Reinforcement Learning.
 - 🛠️ **Tech Stack**: NVIDIA Isaac Sim/Lab, PyTorch, ROS, Linux (Ubuntu/SSH/Tmux), C++, Python.
