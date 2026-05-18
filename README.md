@@ -1,4 +1,4 @@
-# Hi there, I'm Wangzy 👋
+# Hi there, I'm Wang zhiyuan 👋
 
 <p align="left">
   <a href="https://github.com/Wangzy"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained"></a>
