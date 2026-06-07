@@ -15,22 +15,28 @@ I am an undergraduate student majoring in **Artificial Intelligence** at **Jilin
 ---
 
 ## 🎯 Current Focus & Goals
-* **Research & Development**: Dedicated to building **real-world deployed robotic products** and publishing **high-impact research papers** in the field of Embodied AI.
-* **Long-term Academic Track**: Actively seeking and preparing for **Robotics PhD positions** globally to push the boundaries of humanoid locomotion and intelligence.
+* **Research & Development**: Recently, I have shifted my focus toward **next-generation generative AI**, especially long-form video generation, image generation, and multimodal generative models.
+* **Long-term Academic Track**: My goal for the third year of my undergraduate studies is to **gain practical experience** through internships while preparing applications for both **master's and M.Phil.** programs at CUHK-Shenzhen.
 
 ---
 
 ## 🔬 Research & Internship Experience
 
 ### 🤖 Jushen Technology (Shanghai)
-**AI Research Intern** | *Present*
+**AI Research Intern** | *over*
 * Focusing on **Sim-to-Real transfer** algorithms for humanoid robots.
 * Utilizing high-fidelity simulation environments (**NVIDIA Isaac Sim/Lab**) to train robust reinforcement learning policies for complex humanoid locomotion.
 
-### 🛸 JLU AVCLab
+### 🛸 JLU wangyaxing‘s Lab
+
 **Undergraduate Researcher** | *Present*
-* **Embodied AI & Robotics (Current)**: Researching Sim2Real deployment, humanoid locomotion, and deep reinforcement learning (DRL) policies.
-* **Rigorous Foundation (Past)**: Developed a strong theoretical and practical background in CV and LLMs. Successfully completed comprehensive coursework and self-study, including **Stanford CS231n** and **Stanford CS336** .
+
+* **Research Focus**: Next-generation generative models, with a particular interest in long-form video generation.
+
+* **Areas of Interest**: Diffusion models, video generation, multimodal generation, and world models.
+
+* **Background**: Strong foundation in deep learning and computer vision through coursework and self-study, including Stanford CS236.
+
 
 ---
 
