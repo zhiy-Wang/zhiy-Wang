@@ -7,10 +7,10 @@
 
 I am an undergraduate student majoring in **Artificial Intelligence** at **Jilin University (JLU)**.  
 
-- 🔭 **Current Position**: AI Research Intern at **Jushen Technology (Shanghai)**.
-- 🏫 **Lab Affiliation**: Undergraduate Researcher at **JLU AVCLab** .
-- 🎯 **Core Research**: Humanoid Robot Locomotion & Manipulation, Sim-to-Real Transfer, and Deep Reinforcement Learning.
-- 🛠️ **Tech Stack**: NVIDIA Isaac Sim/Lab, PyTorch, ROS, Linux (Ubuntu/SSH/Tmux), C++, Python.
+* 🔭 **Current Position**: Undergraduate Researcher at **JLU Generative Vision Lab (Prof. Yaxing Wang)**.
+* 🎯 **Research Interests**: Generative AI, Long-Form Video Generation, Diffusion Models, and Multimodal Learning.
+* 🛠️ **Tech Stack**: PyTorch, Python, Linux, Git, Deep Learning, Computer Vision.
+
 
 ---
 
@@ -23,7 +23,7 @@ I am an undergraduate student majoring in **Artificial Intelligence** at **Jilin
 ## 🔬 Research & Internship Experience
 
 ### 🤖 Jushen Technology (Shanghai)
-**AI Research Intern** | *over*
+**AI Research Intern** | *Over*
 * Focusing on **Sim-to-Real transfer** algorithms for humanoid robots.
 * Utilizing high-fidelity simulation environments (**NVIDIA Isaac Sim/Lab**) to train robust reinforcement learning policies for complex humanoid locomotion.
 
