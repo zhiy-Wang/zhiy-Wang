@@ -27,7 +27,7 @@ I am an undergraduate student majoring in **Artificial Intelligence** at **Jilin
 * Focusing on **Sim-to-Real transfer** algorithms for humanoid robots.
 * Utilizing high-fidelity simulation environments (**NVIDIA Isaac Sim/Lab**) to train robust reinforcement learning policies for complex humanoid locomotion.
 
-### 🛸 JLU wangyaxing‘s Lab
+### 🛸 JLU Generative Vision Lab (Prof. Yaxing Wang).
 
 **Undergraduate Researcher** | *Present*
 
