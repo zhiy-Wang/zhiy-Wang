@@ -23,7 +23,7 @@ I am an undergraduate student majoring in **Artificial Intelligence** at **Jilin
 ## 🔬 Research & Internship Experience
 
 ### 🤖 Jushen Technology (Shanghai)
-**AI Research Intern** | *Over*
+**Robot Engineer Intern** | *Over*
 * Focusing on **Sim-to-Real transfer** algorithms for humanoid robots.
 * Utilizing high-fidelity simulation environments (**NVIDIA Isaac Sim/Lab**) to train robust reinforcement learning policies for complex humanoid locomotion.
 
